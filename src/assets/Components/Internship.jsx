@@ -73,7 +73,7 @@ function Internship() {
                 </div>
                 <div className="flex gap-1 justify-center">
                     <h2 className='text-white md:text-4xl text-xl font-bold text-left mx-5'>
-                        Project-Based Internship (Total of 480 hours)
+                        Project-Based Internship (Total of 500 hours)
                     </h2>
                 </div>
                 <div className="flex gap-1 justify-left">
