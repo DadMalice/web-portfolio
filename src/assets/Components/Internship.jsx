@@ -297,9 +297,9 @@ function Internship() {
                         c. Updated Resume
                     </h2>
                 </div>
-                <div className="flex gap-1 justify-left mt-4">
-                    <p className='ml-20 pl-10 text-white lg:text-lg font-normal text-justify'>
-                        To access the updated resume please <CustomResumeLink><span className='hover:decoration-dashed'>click here</span></CustomResumeLink>
+                <div className="flex gap-1 justify-left mt-4 px-10">
+                    <p className='xl:ml-20 xl:pl-10 pl-12 text-white lg:text-lg font-normal text-justify'>
+                        To access the updated resume <CustomResumeLink><span className='hover:decoration-dashed'>click here</span></CustomResumeLink>
                     </p>
                 </div>
                 <div className="flex gap-1 justify-left mt-4">
