@@ -99,7 +99,7 @@ function Internship() {
                 </div>
                 <div className="flex gap-1 justify-left">
                     <p className='text-white lg:text-lg font-normal text-justify mx-10 mt-4 pl-10'>
-                        Entering this internship, my expectations were centered around immersing myself in web development, gaining hands-on experience in coding, testing, and deploying websites. I aimed to accumulate 480 hours of practical experience across two projects, progressing in complexity.
+                        Entering this internship, my expectations were centered around immersing myself in web development, gaining hands-on experience in coding, testing, and deploying websites. I aimed to accumulate 500 hours of practical experience across two projects, progressing in complexity.
                     </p>
                 </div>
 
