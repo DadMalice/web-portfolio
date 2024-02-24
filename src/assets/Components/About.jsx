@@ -51,17 +51,17 @@ function About() {
                         />
                         <h1 className='text-white text-4xl font-bold text-center mt-4 mx-4'>Brent Viñeza</h1>
                         <h1 className='text-white text-lg font-normal text-center mx-4'>4th Year BSIT Student</h1>
-                        <h1 className='text-white text-lg font-normal text-center mx-4'>Full Stack Developer</h1>
+                        <h1 className='text-white text-lg font-normal text-center mx-4'>Software Developer</h1>
                     </div>
                     <div className="flex-1 mx-4 text-white lg:text-lg">
                         <p className='m-5'>
                             A 4th year BSIT Graduating Student from Southville International School and Colleges. Currently, resides in Las Piñas, NCR Philippines.
                         </p>
                         <p className='m-5'>
-                            During my second year in college where I was introduced to C# Programming Language, from there I decided that I want to be a software developer.
+                            During my first year in college, I was introduced to the Java Programming Language. Initially, I didn't enjoy it much. However, during my second year, when C# and WPForms alongside MsSQL were introduced, I decided that I wanted to be a software developer.
                         </p>
                         <p className='m-5'>
-                            I am open to take on being a web and mobile developer as I encountered Java, Kotlin, ReactNative during my college and HTML/CSS and React during my internship. Outside programming, I enjoy building and tinkering with tech. I built and troubleshooted dozens of computers/laptops.
+                            I am open to take on being a web or mobile developer as I encountered various frameworks and tools like React.Js, TailwindCSS during my internship. Outside programming, I enjoy building and tinkering with tech. I built and troubleshooted dozens of computers/laptops.
                         </p>
                         <p className='m-5'>
                             Are you interested? Please check my <CustomResumeLink><span className='hover:decoration-dashed'>resume</span></CustomResumeLink>.
@@ -86,7 +86,7 @@ function About() {
                                 <p className="text-lg font-semibold text-white text-center">Flutter</p>
                             </div>
                             <div className="bg-purple-700 h-[28px] w-auto px-2 rounded-sm">
-                                <p className="text-lg font-semibold text-white text-center">Kotlin</p>
+                                <p className="text-lg font-semibold text-white text-center">Dart</p>
                             </div>
                             <div className="bg-orange-600 h-[28px] w-auto px-2 rounded-sm">
                                 <p className="text-lg font-semibold text-white text-center">HTML</p>
@@ -97,9 +97,6 @@ function About() {
                             <div className="bg-red-900 h-[28px] w-auto px-2 rounded-sm">
                                 <p className="text-lg font-semibold text-white text-center">MsSQL</p>
                             </div>
-                            <div className="bg-sky-500 h-[28px] w-auto px-2 rounded-sm">
-                                <p className="text-lg font-semibold text-white text-center">PHP</p>
-                            </div>
                             <div className="bg-green-800 h-[28px] w-auto px-2 rounded-sm">
                                 <p className="text-lg font-semibold text-white text-center">Google Cloud</p>
                             </div>
@@ -108,6 +105,9 @@ function About() {
                             </div>
                             <div className="bg-amber-600 h-[28px] w-auto px-2 rounded-sm">
                                 <p className="text-lg font-semibold text-white text-center">AWS</p>
+                            </div>
+                            <div className="bg-red-600 h-[28px] w-auto px-2 rounded-sm">
+                                <p className="text-lg font-semibold text-white text-center">Computer Hardware</p>
                             </div>
                         </div>
                     </div>

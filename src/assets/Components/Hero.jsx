@@ -27,14 +27,14 @@ function Hero() {
 
         const typeH2 = async () => {
             await new Promise(resolve => setTimeout(resolve, 2000));
-            const textArray = ['4th Year BSIT Student', 'Full Stack Developer'];
+            const textArray = ['4th Year BSIT Student', 'Software Developer'];
             for (let j = 0; j < textArray.length; j++) {
                 const text = textArray[j];
                 for (let i = 0; i <= text.length; i++) {
                     setH2Text(text.substring(0, i));
                     await new Promise(resolve => setTimeout(resolve, 75));
                 }
-                await new Promise(resolve => setTimeout(resolve, 3000));
+                await new Promise(resolve => setTimeout(resolve, 2000));
             }
         };
 
